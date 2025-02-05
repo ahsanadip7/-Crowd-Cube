@@ -54,10 +54,9 @@ components/ – Reusable UI components
 pages/ – Different pages like Home, Project Details, Dashboard
 services/ – API services to interact with Firebase or any back-end
 public/ – Static files like images, icons, etc.
-## 🔗 Live Demo
-
-You can check out the live version of **Crowd Cube** at:  
-[**View Online Demo**](https://assignment-no-10-17056.web.app/)
+🔗 Live Demo
+You can check out the live version of Crowd Cube at:
+View Online Demo
 
 🧑‍🤝‍🧑 Contributing
 We welcome contributions! If you'd like to help improve the platform, feel free to fork the repository, create a new branch, and submit a pull request.
